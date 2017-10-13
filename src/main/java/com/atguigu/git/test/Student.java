@@ -3,7 +3,7 @@ package com.atguigu.git.test;
 public class Student {
 	
 	public String getDataMessage() {
-		return "message for test jenkins";
+		return "message for test jenkins[Deploy again]";
 	}
 	
 	public static void main(String[] args) {
